@@ -1,11 +1,13 @@
 # 💫 About Me:
 <br>I'm Shanu — a Full Stack MERN Developer, problem solver, and final year B.Tech CSE student.
 I have completed MERN Stack development and built real-world projects using MERN Stack, Next.js, TypeScript, GENAI , REST APIs, authentication, and responsive UI design.
-Along with development, I actively practice Data Structures and Algorithms in Java and have solved 600+ problems on LeetCode.
+<br>Along with development, I actively practice Data Structures and Algorithms in Java and have solved 600+ problems on LeetCode.
 I’m a 2x Hackathon Winner and have also completed an AI internship. Currently, I’m exploring Generative AI and Agentic AI to understand how intelligent systems can be integrated into modern full-stack applications.
 
 I’m open to Full Stack Developer, MERN Stack, and Software Developer Internship and full time opportunities.
 
+## 🌐 Socials:
+[![Porfolio ]](https://shanudev.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shanu-prajapati-313b44322/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SPrajapati99535) 
