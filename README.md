@@ -7,7 +7,7 @@ I’m a 2x Hackathon Winner and have also completed an AI internship. Currently,
 I’m open to Full Stack Developer, MERN Stack, and Software Developer Internship and full time opportunities.
 
 ## 🌐 Socials & Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-shanudev.vercel.app-10B981?style=for-the-badge&logo=vercel)]([https://shanuprajapati.vercel.app/](https://shanuprajapati.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-shanudev.vercel.app-10B981?style=for-the-badge&logo=vercel)](https://shanuprajapati.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanu-prajapati-313b44322/) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SPrajapati99535)
 
